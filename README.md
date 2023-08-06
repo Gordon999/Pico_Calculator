@@ -1,9 +1,9 @@
-# Pico_Calculator
+7# Pico_Calculator
 
 Simple calculator based on a Raspberry Pi Pico, SSD1306 display and a matrix keyboard.
 Written in Micropython.
 
-It can peform simply calculations eg +,-,* or /, as well as some maths functions eg log, ^X etc
+It can peform simple calculations eg +,-,* or /, as well as some maths functions eg log, ^X etc
 
 ## Schematic
 ![schematic](calculator.jpg)

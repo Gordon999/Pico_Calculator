@@ -33,6 +33,6 @@ or you can do further calculations on the result
 
 Pressing '=' BEFORE entering a number will make it -ve
 
-lt will work with one of these https://wiki.dfrobot.com/Sealed_Membrane_4*4_button_pad_with_sticker__SKU_FIT0129
+lt will work with one of these https://thepihut.com/products/sealed-membrane-4-4-button-pad-with-sticker
 
 ensure you wire it correctly!

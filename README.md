@@ -13,7 +13,6 @@ Copy https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py to 
 Copy main.py to the pico
 
 # To carry out simple addition:
-
 Press 1.234,
 Press +,
 Press 2.345,

@@ -32,3 +32,5 @@ To clear press '.' for > 1 second and release
 or you can do further calculations on the result
 
 Pressing '=' BEFORE entering a number will make it -ve
+
+it will work with one of these https://thepihut.com/products/sealed-membrane-4-4-button-pad-with-sticker?variant=27740784913&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwib2mBhDWARIsAPZUn_kjxpKmnHCe5b4evtGasdmuxcAH9wCz3kYvwtsEediYYsVXaxWK2sAaAppLEALw_wcB

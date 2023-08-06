@@ -19,12 +19,14 @@ Press 2.345
 Press =
 
 To clear a number, in case of an error, press . for > 1 second and release.
-To clear the screen press . for > 3 seconds and release
+
+To clear the screen press . for > 3 seconds and release.
 
 To carry out a maths function, eg log10(1.234):
 Press 1.234
 Press and hold 2 for > 1 second and release
 the result will be shown 0.09131514
+
 To clear press . for > 1 second and release
 or you can do further calculations on the result
 

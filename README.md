@@ -8,7 +8,7 @@ It can peform simply calculations eg +,-,* or /, as well as some maths functions
 ## Schematic
 ![schematic](calculator.jpg)
 
-Copy https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py tp the pico
+Copy https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py to the pico
 
 Copy main.py to the pico
 

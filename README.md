@@ -12,7 +12,7 @@ Copy https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py to 
 
 Copy main.py to the pico
 
-# To carry out simple addition:
+# To carry out a simple addition:
 Press 1.234,
 Press +,
 Press 2.345,
@@ -25,7 +25,7 @@ To clear the screen press '.' for > 3 seconds and release.
 # To carry out a maths function, eg log10(1.234):
 
 Press 1.234,
-Press and hold '2' for > 1 second and release
+Press and hold '2' for > 1 second and release (see table on schematic for other maths functions)
 the result will be shown 0.09131514
 
 To clear press '.' for > 1 second and release

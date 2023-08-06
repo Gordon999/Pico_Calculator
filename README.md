@@ -33,6 +33,8 @@ or you can do further calculations on the result
 
 Pressing '=' BEFORE entering a number will make it -ve
 
+Holding down ^X will increment the power eg 3 seconds will give ^3
+
 lt will work with one of these https://thepihut.com/products/sealed-membrane-4-4-button-pad-with-sticker
 
 ensure you wire it correctly!
